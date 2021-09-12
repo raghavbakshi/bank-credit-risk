@@ -1,0 +1,21 @@
+2021-09-02/17:44:17		GoodRaw directory deleted successfully!!!
+2021-09-02/17:44:17		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2021-09-02/18:13:34		GoodRaw directory deleted successfully!!!
+2021-09-03/22:47:06		BadRaw directory deleted before starting validation!!!
+2021-09-03/22:47:11		GoodRaw directory deleted successfully!!!
+2021-09-03/22:47:11		Bad files moved to archive
+2021-09-03/22:47:11		Bad Raw Data Folder Deleted successfully!!
+2021-09-03/22:55:14		GoodRaw directory deleted successfully!!!
+2021-09-03/22:55:14		Bad files moved to archive
+2021-09-03/22:55:14		Bad Raw Data Folder Deleted successfully!!
+2021-09-03/22:58:15		GoodRaw directory deleted successfully!!!
+2021-09-03/22:58:15		Bad files moved to archive
+2021-09-03/22:58:15		Bad Raw Data Folder Deleted successfully!!
+2021-09-03/23:00:51		GoodRaw directory deleted successfully!!!
+2021-09-03/23:00:51		Bad files moved to archive
+2021-09-03/23:00:51		Bad Raw Data Folder Deleted successfully!!
+2021-09-03/23:25:20		GoodRaw directory deleted successfully!!!
+2021-09-03/23:25:20		Bad files moved to archive
+2021-09-03/23:25:20		Bad Raw Data Folder Deleted successfully!!
+2021-09-04/16:43:54		BadRaw directory deleted before starting validation!!!
+2021-09-04/16:43:54		GoodRaw directory deleted successfully!!!

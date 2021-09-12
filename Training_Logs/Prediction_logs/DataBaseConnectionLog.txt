@@ -1,0 +1,10 @@
+2021-08-25/12:38:36		Connection established successfully
+2021-08-25/12:40:43		table created successfully
+2021-09-02/17:08:20		Error while creating table
+2021-09-02/17:44:16		table created successfully
+2021-09-02/18:13:32		table created successfully
+2021-09-03/22:47:11		table created successfully
+2021-09-03/22:55:13		table created successfully
+2021-09-03/22:58:14		table created successfully
+2021-09-03/23:00:50		table created successfully
+2021-09-03/23:25:19		table created successfully11111111111

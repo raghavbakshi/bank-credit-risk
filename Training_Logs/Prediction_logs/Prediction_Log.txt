@@ -1,0 +1,59 @@
+2021-09-03/22:58:12		Start of Validation on files for prediction!!
+2021-09-03/22:58:12		Raw Data Validation Complete!!
+2021-09-03/22:58:12		Starting Data Transformation!!
+2021-09-03/22:58:12		DataTransformation Completed!!!
+2021-09-03/22:58:12		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-09-03/22:58:14		Table creation Completed!!
+2021-09-03/22:58:14		Insertion of Data into Table started!!!!
+2021-09-03/22:58:15		Insertion in Table completed!!!
+2021-09-03/22:58:15		Deleting Good Data Folder!!!
+2021-09-03/22:58:15		Good_Data folder deleted!!!
+2021-09-03/22:58:15		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-09-03/22:58:15		Bad files moved to archive!! Bad folder Deleted!!
+2021-09-03/22:58:15		Validation Operation completed!!
+2021-09-03/22:58:15		Extracting csv file from table
+2021-09-03/22:58:16		Start of Prediction
+2021-09-03/22:58:16		Entered the get_data method of the Data_Getter class
+2021-09-03/22:58:16		Exception occured in get_data method of the Data_Getter class. Exception message: No columns to parse from file
+2021-09-03/22:58:16		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2021-09-03/22:58:16		Error occurred while running the prediction!! Error:: 
+2021-09-03/23:00:48		Start of Validation on files for prediction!!
+2021-09-03/23:00:48		Raw Data Validation Complete!!
+2021-09-03/23:00:48		Starting Data Transformation!!
+2021-09-03/23:00:48		DataTransformation Completed!!!
+2021-09-03/23:00:48		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-09-03/23:00:50		Table creation Completed!!
+2021-09-03/23:00:50		Insertion of Data into Table started!!!!
+2021-09-03/23:00:51		Insertion in Table completed!!!
+2021-09-03/23:00:51		Deleting Good Data Folder!!!
+2021-09-03/23:00:51		Good_Data folder deleted!!!
+2021-09-03/23:00:51		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-09-03/23:00:51		Bad files moved to archive!! Bad folder Deleted!!
+2021-09-03/23:00:51		Validation Operation completed!!
+2021-09-03/23:00:51		Extracting csv file from table
+2021-09-03/23:00:52		Start of Prediction
+2021-09-03/23:00:52		Entered the get_data method of the Data_Getter class
+2021-09-03/23:00:52		Exception occured in get_data method of the Data_Getter class. Exception message: No columns to parse from file
+2021-09-03/23:00:52		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2021-09-03/23:00:52		Error occurred while running the prediction!! Error:: 
+2021-09-03/23:25:15		Start of Validation on files for prediction!!
+2021-09-03/23:25:15		Raw Data Validation Complete!!
+2021-09-03/23:25:15		Starting Data Transformation!!
+2021-09-03/23:25:15		DataTransformation Completed!!!
+2021-09-03/23:25:15		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-09-03/23:25:19		Table creation Completed!!
+2021-09-03/23:25:19		Insertion of Data into Table started!!!!
+2021-09-03/23:25:20		Insertion in Table completed!!!
+2021-09-03/23:25:20		Deleting Good Data Folder!!!
+2021-09-03/23:25:20		Good_Data folder deleted!!!
+2021-09-03/23:25:20		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-09-03/23:25:20		Bad files moved to archive!! Bad folder Deleted!!
+2021-09-03/23:25:20		Validation Operation completed!!
+2021-09-03/23:25:20		Extracting csv file from table
+2021-09-03/23:25:21		Start of Prediction
+2021-09-03/23:25:21		Entered the get_data method of the Data_Getter class
+2021-09-03/23:25:21		Exception occured in get_data method of the Data_Getter class. Exception message: No columns to parse from file
+2021-09-03/23:25:21		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2021-09-03/23:25:21		Error occurred while running the prediction!! Error:: 
+2021-09-04/16:43:33		Start of Validation on files for prediction!!
+2021-09-04/16:43:54		Start of Validation on files for prediction!!

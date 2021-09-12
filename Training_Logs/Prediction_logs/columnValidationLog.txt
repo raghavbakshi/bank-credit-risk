@@ -1,0 +1,20 @@
+2021-09-02/17:08:16		Column Length Validation Started!!
+2021-09-02/17:08:16		Column Length Validation Completed!!
+2021-09-02/17:44:12		Column Length Validation Started!!
+2021-09-02/17:44:12		Column Length Validation Completed!!
+2021-09-02/18:08:10		Column Length Validation Started!!
+2021-09-02/18:08:10		Error Occured while moving the file :: <class 'OSError'>
+2021-09-02/18:13:28		Column Length Validation Started!!
+2021-09-02/18:13:28		Column Length Validation Completed!!
+2021-09-02/22:12:57		Column Length Validation Started!!
+2021-09-02/22:12:57		Error Occured while moving the file :: <class 'OSError'>
+2021-09-03/22:47:06		Column Length Validation Started!!
+2021-09-03/22:47:06		Column Length Validation Completed!!
+2021-09-03/22:55:11		Column Length Validation Started!!
+2021-09-03/22:55:11		Column Length Validation Completed!!
+2021-09-03/22:58:12		Column Length Validation Started!!
+2021-09-03/22:58:12		Column Length Validation Completed!!
+2021-09-03/23:00:48		Column Length Validation Started!!
+2021-09-03/23:00:48		Column Length Validation Completed!!
+2021-09-03/23:25:15		Column Length Validation Started!!
+2021-09-03/23:25:15		Column Length Validation Completed!!

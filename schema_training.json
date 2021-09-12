@@ -1,0 +1,27 @@
+{
+	"filename" : "schema_training.json",
+	"no_of_columns" : 21,
+	"col_name" : {
+		"laufkont" : "float",
+		"laufzeit" : "float",
+		"moral" : "float",
+		"verw" : "float",
+		"hoehe" : "float",
+		"sparkont" : "float",
+		"beszeit" : "float",
+		"rate" : "float",
+		"famges" : "float",
+		"buerge" : "float",
+		"wohnzeit" : "float",
+		"verm" : "float",
+		"alter" : "float",
+		"weitkred" : "float",
+		"wohn" : "float",
+		"bishkred" : "float",
+		"beruf" : "float",
+		"pers" : "float",
+		"telef" : "float",
+		"gastarb" : "float",
+		"kredit" : "float"
+	}
+}
